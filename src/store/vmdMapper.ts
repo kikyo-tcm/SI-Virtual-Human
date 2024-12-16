@@ -1,4 +1,4 @@
-  interface AnimationsMapping {
+interface AnimationsMapping {
     [key: string]: string;
   }
 export const AnimationsMapping:AnimationsMapping = {
