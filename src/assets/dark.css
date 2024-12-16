@@ -1,0 +1,5 @@
+html.dark {
+  background-color: #12121c;
+  --el-bg-color: #12121c;
+  --el-bg-color-overlay: #12121c;
+}

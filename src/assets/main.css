@@ -1,0 +1,21 @@
+@import './base.css';
+
+.el-card {
+  --el-card-padding: 10px;
+  background-color: rgb(24, 28, 32);
+  --el-card-border-color: #112;
+  border-radius: 10px;
+}
+.el-card__body {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 16px;
+}
+.el-card__header {
+  background-color: rgb(41, 45, 57);
+}
+
+.el-input,
+.el-input__wrapper {
+  border-radius: 16px;
+}
